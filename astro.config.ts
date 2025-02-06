@@ -19,11 +19,11 @@ export default defineConfig({
     mdx(),
     sitemap(),
     spectre({
-      name: 'Spectre',
+      name: 'Warren Low',
       openGraph: {
         home: {
-          title: 'Spectre',
-          description: 'A minimalistic theme for Astro.'
+          title: 'Home',
+          description: 'Homepage'
         },
         blog: {
           title: 'Blog',
